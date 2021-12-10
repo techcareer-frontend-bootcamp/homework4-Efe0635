@@ -1,0 +1,34 @@
+
+.body{
+    font-family: 'Poppins', sans-serif;
+}
+
+.logo{
+    align-items: center;
+    font-weight: 700;
+}
+
+.all{
+    margin-top: 100px;
+}
+
+.box {
+    padding-top: 15px;
+    border-radius: 10px;
+    box-shadow: 3px 5px 5px rgba(0, 0, 0, 0.1), 3px 5px 5px rgba(0, 0, 0, 0.1);
+  }
+
+.box a{
+    text-decoration: none;
+    color: black;
+}
+
+.bottom{
+    margin-top: 300px;
+    background-color: white;
+}
+  
+.bottom a{
+    color: #7f8185 ;
+    text-decoration: none;
+}
